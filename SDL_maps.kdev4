@@ -1,0 +1,4 @@
+[Project]
+Name=SDL_maps
+Manager=KDevCMakeManager
+VersionControl=kdevgit
