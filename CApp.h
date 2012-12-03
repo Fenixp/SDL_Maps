@@ -1,5 +1,5 @@
 //==============================================================================
-// SDL Tutorial 1
+// SDL Tutorial 1 A massive change. I've changed everything about this project.
 //==============================================================================
 #ifndef _CAPP_H_
     #define _CAPP_H_
