@@ -7,7 +7,7 @@
 #include "CAnimation.h"
 #include "CSurface.h"
 
-//==============================================================================
+//==============================================================================WellWellWellWellWell
 class CEntity {
     public:
         static std::vector<CEntity*>    EntityList;
